@@ -1,0 +1,10 @@
+V1	X=B	Y=F
+V2	X=F	Y=B
+V3	X=F	Y=B
+V4a	X=B	Y=F
+V4b	X=B	Y=F
+V5	X=B	Y=F
+V6a	X=F	Y=B
+V6b	X=F	Y=B
+V7	X=F	Y=B
+V8	X=B	Y=F
