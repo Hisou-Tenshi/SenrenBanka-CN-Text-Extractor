@@ -4,12 +4,53 @@
 > **本项目是个人、非官方、非商业性质的技术研究与学习项目，与 Yuzusoft、NekoNyan、Hikari Field、Steam 及任何游戏权利方均无隶属、合作、授权或背书关系。**
 >
 > - **仅供学习**：仅用于研究 KiriKiri Z 引擎、XP3 封包、cxdec 加密、PSB 格式与文本处理；**不提供游戏本体、破解补丁、汉化补丁**，也不提供任何可运行的"学习版"。
+> - **解包行为声明**：本项目仅提供文件格式解析与解密算法的技术实现，用于互操作性研究、格式学习与文本检索；**解包/解密行为本身不产生、亦不得被用于产生任何游戏内容的分发物**。作者只向已合法拥有游戏副本的用户提供格式研究代码，**不提供、不托管、不分发**游戏本体或加密资源，也不保证任何解包结果可用于游玩。请勿将本工具用于盗版、破解、传播付费内容或其他损害权利方利益的行为。
 > - **版权归属**：游戏文本、角色、剧本、语音、商标等一切内容版权归 Yuzusoft 及各地发行/本地化权利方所有；`data/` 中的文本仅为技术研究与检索示例，**禁止商业使用、禁止二次分发、禁止任何形式的盈利或替代正版**。
 > - **请支持正版**：使用本项目前，请先通过 Steam 等正规渠道购买并合法拥有游戏；本项目**不鼓励、不支持、不参与任何盗版行为**。请自行确认所在地区的法律法规，因使用产生的法律风险由使用者自负。
 > - **无担保**：代码与数据均按 **"AS IS"** 提供，不保证正确性、完整性、可用性或安全性；作者不对因使用本项目造成的任何直接或间接损失（包括但不限于数据丢失、账号异常、法律纠纷）承担任何责任。
 > - **同人研究**：`research/`、`runtime/` 等目录中的角色心理/语气/行为研究属于粉丝研究与生成验证，**不代表官方设定**，也不构成对原作角色的官方诠释；其中任何模型、提示词或生成内容均不得作为官方资料引用。
 > - **侵权联系**：若权利方认为本项目任何内容侵犯其权益，请通过 GitHub Issue 联系作者，作者将在核实后尽快删除或调整相关内容。
 > - **使用即同意**：下载、克隆、运行或以任何方式使用本项目，即视为已阅读并同意以上全部条款；如不同意，请立即停止使用并删除本项目所有副本。
+
+<details>
+<summary><b>🌐 English version of the disclaimer — click to expand</b></summary>
+
+<br>
+
+**⚠️ SUPER DISCLAIMER — READ BEFORE USE**
+
+This is a personal, unofficial, non-commercial technical research and learning project. It is **not affiliated with, endorsed by, sponsored by, or authorized by** Yuzusoft, NekoNyan, Hikari Field, Steam, or any other rights holder.
+
+- **For study only**: This project exists solely to study the KiriKiri Z engine, XP3 archives, cxdec encryption, the PSB format, and text processing. It **does not provide the game itself, cracks, or translation patches**, and does not provide any runnable "study copy".
+- **Unpacking / extraction statement**: This project only provides implementations of file-format parsing and decryption algorithms for interoperability research, format study, and text retrieval. **The act of unpacking/decrypting does not create — and must not be used to create — any distributable copy of game content.** The author provides format-research code only to users who legally own a copy of the game, and **does not provide, host, or distribute** the game itself or any encrypted assets, nor warrant that any extracted output is playable. Do not use this tool for piracy, cracking, redistributing paid content, or any other act that harms rights holders.
+- **Copyright**: All game text, characters, scripts, voice data, and trademarks belong to Yuzusoft and the respective publishing/localization rights holders. Text under `data/` is provided only as technical-research and retrieval examples: **commercial use, redistribution, monetization, or substituting for the official release is prohibited**.
+- **Support the official release**: Before using this project, purchase and legally own the game through Steam or another official channel. This project **does not encourage, support, or participate in piracy**. You are responsible for confirming the laws and regulations of your jurisdiction; any legal risk arising from use is borne by the user.
+- **No warranty**: Code and data are provided **"AS IS"**, without any guarantee of correctness, completeness, usability, or safety. The author accepts no liability for any direct or indirect loss (including but not limited to data loss, account issues, or legal disputes) caused by use of this project.
+- **Fan research**: The character psychology / tone / behavior research under `research/`, `runtime/`, and similar directories is fan research and generation-validation work. It **does not represent official settings** and is not an official interpretation of any character; no model, prompt, or generated content therein may be cited as official material.
+- **Takedown requests**: If a rights holder believes any content in this project infringes their rights, please contact the author via a GitHub Issue; the author will remove or adjust the relevant content as soon as possible after verification.
+- **Acceptance**: Downloading, cloning, running, or otherwise using this project constitutes acknowledgment and acceptance of all of the above terms. If you do not agree, please stop using it immediately and delete all copies.
+
+</details>
+
+<details>
+<summary><b>🌐 日本語版 免責事項 — クリックで展開</b></summary>
+
+<br>
+
+**⚠️ 超・免責事項（必ずお読みください）**
+
+本プロジェクトは、個人的・非公式・非営利の技術研究および学習を目的としたプロジェクトです。**Yuzusoft、NekoNyan、Hikari Field、Steam その他の権利者とは、一切の関係（所属・提携・許諾・推奨・承認）がありません。**
+
+- **学習目的のみ**：KiriKiri Z エンジン、XP3 アーカイブ、cxdec 暗号化、PSB 形式、テキスト処理の研究のみを目的としています。**ゲーム本体、クラックパッチ、漢化／翻訳パッチは提供しません**。「学習版」等の実行可能な不正コピーも提供しません。
+- **解包（アンパック）行為について**：本プロジェクトは、相互運用性の研究、形式の学習、テキスト検索のために、ファイル形式の解析・復号アルゴリズムの実装のみを提供します。**アンパック／復号行為それ自体はゲーム内容の頒布物を生成するものではなく、生成するために使用してはなりません。** 作者は、ゲームを合法的に所有するユーザーにのみ形式研究用コードを提供し、**ゲーム本体や暗号化リソースの提供・保管・配布は行いません**。また、抽出結果がプレイ可能であることも保証しません。海賊版、クラック、有料コンテンツの再配布など、権利者の利益を害する行為に本ツールを使用しないでください。
+- **著作権**：ゲームのテキスト、キャラクター、シナリオ、音声、商標など、すべての内容の著作権は Yuzusoft および各地の販売・ローカライズ権利者に帰属します。`data/` 内のテキストは技術研究・検索用のサンプルにすぎず、**商用利用、再配布、いかなる形での収益化、正規版の代替利用も禁止**します。
+- **正規版をご購入ください**：本プロジェクトを使用する前に、Steam 等の正規チャネルでゲームを購入し、合法的に所有してください。本プロジェクトは**海賊版を推奨・支持・助長するものではありません**。お住まいの地域の法令を自ら確認してください。使用に起因する法的リスクは利用者が負うものとします。
+- **無保証**：コードおよびデータは **"AS IS"**（現状有姿）で提供され、正確性・完全性・可用性・安全性を一切保証しません。本プロジェクトの使用によって生じた直接的・間接的な損害（データ損失、アカウント異常、法的紛争などを含むがこれらに限らない）について、作者は一切の責任を負いません。
+- **二次創作研究**：`research/`、`runtime/` 等のディレクトリにあるキャラクターの心理・語気・行動の研究は、ファン研究および生成検証のためのものであり、**公式設定を代表するものではなく**、原作キャラクターの公式な解釈でもありません。そこに含まれるモデル・プロンプト・生成内容を公式資料として引用しないでください。
+- **削除依頼**：権利者が本プロジェクトの内容について権利侵害を主張する場合は、GitHub Issue にて作者までご連絡ください。確認後、速やかに該当内容を削除または修正します。
+- **同意**：本プロジェクトのダウンロード、クローン、実行、その他いかなる方法での使用をもって、上記すべての条項を読み、同意したものとみなします。同意できない場合は、直ちに使用を中止し、すべてのコピーを削除してください。
+
+</details>
 
 # SenrenBanka-CN-Text-Extractor
 
